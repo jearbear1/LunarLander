@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../Box2D"
+      name = "Box2D">
+      <FileRef
+         location = "group:Box2D.h">
+      </FileRef>
+      <Group
+         location = "group:Collision"
+         name = "Collision">
+         <FileRef
+            location = "group:b2BroadPhase.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2BroadPhase.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2CollideCircle.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2CollideEdge.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2CollidePolygon.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2Collision.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2Collision.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2Distance.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2Distance.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2DynamicTree.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2DynamicTree.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2TimeOfImpact.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2TimeOfImpact.h">
+         </FileRef>
+         <Group
+            location = "group:Shapes"
+            name = "Shapes">
+            <FileRef
+               location = "group:b2ChainShape.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2ChainShape.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2CircleShape.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2CircleShape.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2EdgeShape.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2EdgeShape.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2PolygonShape.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2PolygonShape.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2Shape.h">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:Common"
+         name = "Common">
+         <FileRef
+            location = "group:b2BlockAllocator.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2BlockAllocator.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2Draw.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2Draw.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2GrowableStack.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2Math.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2Math.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2Settings.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2Settings.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2StackAllocator.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2StackAllocator.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2Timer.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2Timer.h">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Dynamics"
+         name = "Dynamics">
+         <FileRef
+            location = "group:b2Body.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2Body.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2ContactManager.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2ContactManager.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2Fixture.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2Fixture.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2Island.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2Island.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2TimeStep.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2World.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2World.h">
+         </FileRef>
+         <FileRef
+            location = "group:b2WorldCallbacks.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2WorldCallbacks.h">
+         </FileRef>
+         <Group
+            location = "group:Contacts"
+            name = "Contacts">
+            <FileRef
+               location = "group:b2ChainAndCircleContact.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2ChainAndCircleContact.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2ChainAndPolygonContact.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2ChainAndPolygonContact.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2CircleContact.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2CircleContact.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2Contact.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2Contact.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2ContactSolver.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2ContactSolver.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2EdgeAndCircleContact.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2EdgeAndCircleContact.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2EdgeAndPolygonContact.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2EdgeAndPolygonContact.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2PolygonAndCircleContact.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2PolygonAndCircleContact.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2PolygonContact.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2PolygonContact.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Joints"
+            name = "Joints">
+            <FileRef
+               location = "group:b2DistanceJoint.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2DistanceJoint.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2FrictionJoint.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2FrictionJoint.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2GearJoint.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2GearJoint.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2Joint.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2Joint.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2MotorJoint.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2MotorJoint.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2MouseJoint.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2MouseJoint.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2PrismaticJoint.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2PrismaticJoint.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2PulleyJoint.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2PulleyJoint.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2RevoluteJoint.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2RevoluteJoint.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2RopeJoint.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2RopeJoint.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2WeldJoint.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2WeldJoint.h">
+            </FileRef>
+            <FileRef
+               location = "group:b2WheelJoint.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:b2WheelJoint.h">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:Rope"
+         name = "Rope">
+         <FileRef
+            location = "group:b2Rope.cpp">
+         </FileRef>
+         <FileRef
+            location = "group:b2Rope.h">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
